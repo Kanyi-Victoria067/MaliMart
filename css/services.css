@@ -2,10 +2,30 @@
   font-weight: bold;
 }
 
-#shipping{
-    color: salmon;
+#shipping {
+  color: salmon;
 }
 
-.one{
-    font-style: italic;
+.one {
+  font-style: italic;
+}
+
+#vip {
+  background-color: pink;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 30px;
+  color: brown;
+}
+
+#main {
+  display: flex;
+}
+
+.customer{
+    background-color: rgb(209, 175, 241);
+    margin-left: 20px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 30px;
 }
